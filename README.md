@@ -6,13 +6,13 @@
 <img src="./assets/atenea.jpg" alt="Atenea — Diosa de la Sabiduría y la Estrategia" width="380px" style="border-radius: 12px; margin: 16px 0; box-shadow: 0 8px 24px rgba(0,0,0,0.5);" />
 
 [![GitHub License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Compatible](https://img.shields.io/badge/Antigravity_Skill-Verified-blue.svg)](https://github.com/darwinsin822/atenea)
+[![Compatible](https://img.shields.io/badge/Antigravity%202.0_Skill-Verified-blue.svg)](https://github.com/darwinsin822/atenea)
 [![ODD](https://img.shields.io/badge/Architecture-ODD_Operational_Design_Domain-gold.svg)](#-dominio-de-diseño-operacional-odd)
 [![CI](https://img.shields.io/badge/CI-Passing-brightgreen.svg)](scripts/ci.sh)
 
 </div>
 
-**Atenea** es el superagente estratégico de planificación, coordinación y supervisión de proyectos para **Google Antigravity** y entornos de agentes de IA de última generación. Especializada en transformar metas complejas y ambiguas en flujos de trabajo deterministas, resilientes y verificables bajo los principios del **Dominio de Diseño Operacional (ODD)**.
+**Atenea** es el superagente estratégico de planificación, coordinación y supervisión de proyectos para **Google Antigravity 2.0** y entornos de agentes de IA de última generación. Especializada en transformar metas complejas y ambiguas en flujos de trabajo deterministas, resilientes y verificables bajo los principios del **Dominio de Diseño Operacional (ODD)**.
 
 ---
 
@@ -35,7 +35,7 @@ ANALIZAR → PLANIFICAR → CONFIRMAR → EJECUTAR → SUPERVISAR → VERIFICAR 
 
 ## 🚀 Instalación y Despliegue Rápido
 
-Para instalar la skill en tu entorno local de Google Antigravity:
+Para instalar la skill en tu entorno local de Google Antigravity 2.0:
 
 ```bash
 git clone https://github.com/darwinsin822/atenea.git
